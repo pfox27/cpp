@@ -1,4 +1,4 @@
-/* A program to calculate the pH of an acid or base, given the concentration of H+ ions or OH- ions. */
+/* A program to calculate the pH of an acid or base, given the concentration of H+ ions or OH- ions. Chemistry is fun! */
 
 #include <iostream>
 #include <math.h>
